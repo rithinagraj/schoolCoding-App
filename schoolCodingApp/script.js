@@ -3,6 +3,8 @@ const inputMin = prompt("Enter the number of minutes")
 
 const outputValue = document.getElementById("countdown");
 
+document.getElementById("copyright").innerHTML = "A Rithin Nagaraj Production";
+
 function timer () {
 	setInterval(updateTimer, 1000)
 	setTimeout(completeTimer, sec*1000)
