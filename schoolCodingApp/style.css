@@ -2,4 +2,25 @@
 
 body {
 	font-family: 'Raleway', sans-serif;
+	color: linear-gradient(to bottom right, #5C258D, #4389A2);
 }
+
+#centeralign {
+	margin-left: 40%;
+	margin-bottom: : 20%;
+	margin-top: 5%;
+	font-family: 'Raleway', sans-serif;
+	color: linear-gradient(to bottom right, #5C258D, #4389A2);
+}
+
+#toclick {
+	background-color: #4CAF50;
+  	padding: 15px 32px;
+  	text-align: center;
+  	font-size: 16px;
+}
+
+#countdown{
+	font-size: 60px
+}
+
